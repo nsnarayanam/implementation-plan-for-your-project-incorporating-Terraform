@@ -1,0 +1,12 @@
+cloud-automation-terraform-gitlab/
+├── README.md
+├── docs/
+│   └── implementation_plan.md
+├── terraform/
+│   ├── main.tf
+│   ├── variables.tf
+│   ├── outputs.tf
+│   └── modules/
+├── scripts/
+│   └── automation.ps1
+└── .gitlab-ci.yml
